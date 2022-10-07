@@ -57,10 +57,6 @@
         
     </EasyDataTable>
 </div>
-    items selected:<br />
-  {{ itemsSelected }}
-  {{vseVrednoste}}
-  {{vseValute}}
 </template>
 <script>
 import Nastanitev from './Nastanitev.vue';
