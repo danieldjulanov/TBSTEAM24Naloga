@@ -1,19 +1,17 @@
-# pregled-nastanitev
+# Pregled nastanitev
 
-## Project setup
+## Postavitev projekta
+
+
+#### 1.Prenesite datoteko zip, ki vsebuje kodo, pa si jo ekstrahiraj
+
+
+#### 2.Odprite terminal v svoji datoteki pa izvedite kodo 
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+#### 3.Ko se ta ukaz konča, zaženete spletno stran z ukazom
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
