@@ -22,5 +22,5 @@ npm run serve
 - Dobimo seznam nastavitve, z ceno v EUR, od katerih si lahko selektiramo naše najbolj zaželene, s katerim potem nadaljujemo v naslednjo stran.
 - Seznam si lahko sortiramo po poljubni atribut, z klik na ime atributa v tabeli.
 - Lahko ga tudi filtiramo s pomočiji search bar-a, ki se nahaja takoj nad seznamu, lahko tudi selektiramo poljuben podatek po katerim si želimo filtrirati.
-- Z klik na gumb do search bar-a, lahko prikažemo nastanitve ki so na voljo (če je selektirano, so samo nastanitve na voljo, sicer, so prikazane vse nastanitve)
+- Z klik na checkbox gumb do search bar-a, lahko prikažemo nastanitve ki so na voljo (če je selektirano, so samo nastanitve na voljo, sicer, so prikazane vse nastanitve)
 - Ko kliknemo "Moje nastanitve" dobimo seznam naših izbranimi nastanitvami, ki jih zdaj ogledmo v vseh valutah ki smo izbrali na začetek.
